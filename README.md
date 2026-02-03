@@ -27,7 +27,6 @@ El cifrado polimórfico es una técnica donde el mismo mensaje puede ser cifrado
 - ✅ **Sustitución Variable**: Usa 10 o más arrays diferentes de mapeo numérico
 - ✅ **Símbolos Especiales**: Incorpora caracteres Unicode como separadores
 - ✅ **Sin Dependencias Pesadas**: Código JavaScript puro
-- ✅ **Generación de Llaves**: Sistema automático de generación de llaves únicas
 
 ## 🔧 Cómo Funciona
 
