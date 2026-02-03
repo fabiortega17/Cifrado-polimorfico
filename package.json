@@ -1,0 +1,23 @@
+{
+  "name": "cifrado-polimorfico",
+  "version": "1.0.0",
+  "description": "Sistema de cifrado polimórfico desarrollado en 2021-2022",
+  "type": "module",
+  "main": "src/encriptador.js",
+  "scripts": {
+    "demo": "node src/ejemplos.js",
+    "test": "echo \"No tests configured yet\" && exit 0"
+  },
+  "keywords": [
+    "encryption",
+    "polymorphic",
+    "cipher",
+    "cryptography",
+    "javascript"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
